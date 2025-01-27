@@ -1,0 +1,45 @@
+
+<title> {
+    color:brown
+}
+
+h1 {
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    margin:auto;
+    top: 500px;
+
+    }
+
+h2 {
+    color:black;
+    font-family:'Times New Roman', Times, serif
+}
+
+h3
+        
+.contenedor-general {
+    width: 59%;
+    display: flex;
+    align-items:center;
+    align-content:center;
+    margin: auto;
+  
+}
+
+#foto-perfil {
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+    left: 150%;
+
+}
+ 
+.custom-text {
+    color:blue
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+  }
+
+ 
